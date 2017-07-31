@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Sign Up"
+        android:textColor="#90c40909"
+        android:textSize="33dp"
+        android:textStyle="bold" />
+
+    
+
+        <EditText
+            android:id="@+id/full_name_edit_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:gravity="center_horizontal"
+            android:hint="Full Name"
+            android:layout_marginTop="20dp"
+            android:inputType="textPersonName" />
+    
+    
+
+
+
+    <EditText
+        android:id="@+id/city_edit_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="City"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal" />
+
+
+    <EditText
+        android:id="@+id/school_name_edit_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="School Name"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+         />
+
+    <Spinner
+        android:id="@+id/class_select_spinner"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+         />
+
+    <ListView
+        android:id="@+id/class_names_display_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="20dp"
+        android:background="#ffffff">
+
+    </ListView>
+    
+
+    <Button
+        android:id="@+id/sign_up_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="#b45705"
+        android:textColor="#fff" />
+
+    
+
+    
+
+    
+
+</LinearLayout>

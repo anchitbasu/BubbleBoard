@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\dbde954c0ee72305bd8960aef84358fd385ffb0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_88a5eee7e3ddf989642259188dc0afe06891dc7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\b4d18304503a134febff7e8479ac929b08362f0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_6fbde50dfb2a4d181d24774fe08bf970a790fe2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\ab717e2c50debf03f4727eb43eb76ddeea519da4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_3d1bbaed4bf7a6d1066310ce0f8aa2e46ce127e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\f28d69041341106f9fdf7e2d0e43c582013047dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_99802eb7902c29ef1ba65dac48b6bcf11b578879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\87fd803062de82e3c57bde2b0a82fb1354561cdc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_4bc87c1afc06a3a3ffa83e5e89aebe24655fcce0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_43f65f2cd4d71d7fea717f39897bd815ada528fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\3706f4f4466b10a360bb72f693e4c685943da815\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_b269b5e3789810c98415989385686bdd8b672907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\0d5714453b0683f8bf98aea12b559bfcdfb42fa6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_c5f09c7b363b3470b862f608486d0e0a6fb98c9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\84778ee7fd5cbcea983a22d39884f75df695311b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_5c2930d76ed950d032ab133058068f461a03bef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\1b939de43d8795368d40486589a433d7b1997cd7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_40c052acf6e88865aab26109f9259b1758f69df4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\e5c27669730d3e70d362681d61189af4f85715af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_1e7daca0ea33483ed22d4af655ee2f25c74a3f5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\e926a0247bf37c5c6874537d52894bcb7a0e2197\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_401617c993f39bc7782c2a62b0d81ef5b43692a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\7aa32e9795a932b7aa0c75615928242d6f40994c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_7719143e3c765541e94c95f661a5d42b6d53a975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\a9f66072fbf6537b994dcf4f1005b8104935b2fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_d975ecdab904efa5eb1ab5d6e373b3945e763ca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\1624932e951a38be8d4b6581d67cc759effa845f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_5e11a80f274c2df49d8d980b38a2cb4c35f16a89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\5f4389cb77417678202e18b6bbf8dec7557cc7de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_62707c805367de77a5b0f21a2405e12a60da9da2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\fe80501b20d8d87b64254d4c98ce617ddba08598\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_4f6dc6001bb4a7a6525dd7a6fd40f790d95b0531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\8be3b579004a8bf4366d58565a6097a3e13c4854\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_7c27159f07ed6ab73f6563a62326d067cd8fe846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\78de19ffee03a52ef02ce1deef6da0c05ae93794\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_40dc70fb65be357c2c86e6197a5a9a4d505eeb2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\34f171941e1dae4ff63e7634062675e63a388af3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_9de672f412c1ae9994fd7d08ad6b5b8b34f38b51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\77eba6786cb67f39b9f92d80785bee973b3bc8b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_82fa3d5ad9cde435bf9842f445eaf2ab8485fe2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\a794014268638b1e4daab4c0928a5a38e4cb24c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_ae634abdcda0f40ebeaf176c8ff6e32783192933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\fab626456ff3cc3dfe5742c15e92d53ff7b54559\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_a677cbd1d39999eb0279d707b4a6995070554bd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\c335ace62a15b789c77096b8bafce5ab583967cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_1ca53bcb0caf42434bd5051b41e94fcd82811bee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\56c24ee491369af4d3b7ec67c7f2afc46637a0c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_234b9a17c1840f5447cb4fa7ad98e858461dcc88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_6f426c42d665663bb0175c43281041fbffa4f425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\90b14b73c363ff3df3b24575142e46f7fee61e29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_ed9b7b97a2cdae8202f78951d6adcee29681d24a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\cca9d1000bcaf0815eb8ec36a07776193128197a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_862ea87e7b9915064a5fdc11cc7d507850c0fe33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\.android\build-cache\3c2f203e76cb40458649fba92e12c8354de4f585\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_f88811be3d0f4b8616f021713101dc4cdbc7c4ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\openCVLibrary320\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c43074c0cb53fe322c3621db28a851ca43d82bb">
+        <dex dex="C:\Users\basu\Desktop\TFI Material\umesh-bubbleboard-6454505e4206\app\build\intermediates\pre-dexed\debug\classes_040a8b1d20b97d833b6d225932e9aa9db2646a3b.jar" />
+    </item>
+
+</items>

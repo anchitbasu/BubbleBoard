@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        card_view:cardCornerRadius="12dp"
+        card_view:contentPaddingTop="10dp"
+        card_view:contentPaddingLeft="10dp"
+        card_view:cardElevation="10dp"
+        android:paddingBottom="10dp"
+        card_view:cardBackgroundColor="@color/cardview_dark_background">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/survey_title_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:alpha="2"
+                android:textColor="#ffffff"
+                android:text="Title"
+                android:textSize="20dp"/>
+            <TextView
+                android:id="@+id/survey_title_value_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:textSize="35dp" />
+
+
+            <TextView
+                android:id="@+id/number_of_questions_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="No. of Questions"
+                android:textSize="20dp"/>
+            <TextView
+                android:id="@+id/number_of_questions_value_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:textSize="35dp"/>
+
+
+
+
+
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BubbleBoard</string>
+    <string name="action_settings">Settings</string>
+    <string name="capture">Capture</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="shared_preferences">SHARED PREFERENCES</string>
+    <string name="sp_user_id">USERID</string>
+    <string name="sp_email">EMAILID</string>
+    <string name="sp_city">CITY</string>
+    <string name="sp_school">SCHOOL</string>
+    <string name="sp_org">ORGANIZATION</string>
+    <string name="sp_selected_classes_id">SELECTED CLASSES</string>
+    <string name="title_activity_tabbed_dashboard">TabbedDashboardActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
